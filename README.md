@@ -1,4 +1,5 @@
 ### Hi there 👋
+- Gabia Front-end Developer
 
 <!--
 **shoo7830/shoo7830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
